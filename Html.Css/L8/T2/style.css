@@ -1,0 +1,14 @@
+div {
+    box-sizing: content-box;
+    background-color: bisque;
+    width: 420px;
+    height: 140px;
+    margin: 50px 100px;
+    padding: 20px;
+    font-size: 24px;
+    border-top: 10px solid firebrick;
+    border-left: 20px dashed aqua;
+    border-right: 20px solid chartreuse;
+    border-bottom: 10px dashed burlywood;
+}
+
