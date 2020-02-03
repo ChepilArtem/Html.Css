@@ -28,7 +28,7 @@
 
 .triangle {
     width: 0;
-    height: 50px;
+    height: 0;
     border: 50px solid transparent;
     border-top-color: brown;
     margin: 50px;
