@@ -1,6 +1,5 @@
 .figures {
     box-sizing: border-box;
-    margin: 50px;
 }
 
 .square_with_circles {
@@ -8,7 +7,7 @@
     width: 100px;
     height: 50px;
     border-radius: 16px;
-    margin-bottom: 50px;
+    margin: 50px;
 }
 
 .oval {
@@ -16,7 +15,7 @@
     width: 100px;
     height: 50px;
     border-radius: 50%;
-    margin-bottom: 50px;
+    margin: 50px;
 }
 
 .a_circle {
@@ -24,7 +23,7 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    margin-bottom: 50px;
+    margin: 50px;
 }
 
 .triangle {
@@ -32,4 +31,5 @@
     height: 50px;
     border: 50px solid transparent;
     border-top-color: brown;
+    margin: 50px;
 }
