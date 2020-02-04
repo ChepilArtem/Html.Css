@@ -13,11 +13,12 @@
 
 .nvigation {
     height: 40px;
-    display: flex;
+    display: block;
 }
 
 .nav-list {
     color: white;
+    margin: 0;
     line-height: 250%;
     display: flex;
 }
