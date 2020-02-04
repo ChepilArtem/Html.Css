@@ -11,14 +11,14 @@
 }
 
 .nav-list {
-    color: white;
     margin: 0;
-    line-height: 250%;
+    line-height: 40px;
 }
 
 .nav-item {
     margin-left: 16px;
-    display: inline;
+    display: inline-block;
+    color: white;
 }
 
 .content {
