@@ -1,6 +1,4 @@
-* {
-    margin: 0;
-}
+
 
 .header {
     background-color: darkturquoise;
@@ -15,10 +13,9 @@
 }
 
 .nav-list {
-    margin-top: 6px;
     float: left;
     list-style: none;
-    margin-left: 16px;
+    margin: 10px 0px 20px 16px;
     color: white;
 }
 
