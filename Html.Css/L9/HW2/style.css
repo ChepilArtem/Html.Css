@@ -13,15 +13,14 @@
 }
 
 .nav-list {
-    float: left;
     list-style: none;
-    margin: 10px 0px 20px 8px;
     color: white;
+    display: flex;
+    margin: 10px 0px 10px 0px;
 }
 
 .nav-item {
-    margin-left: 16px;
-    float: left;
+   margin-left: 16px;
 }
 
 .content {
