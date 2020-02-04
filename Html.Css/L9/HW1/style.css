@@ -2,32 +2,33 @@
     background-color: red;
     height: 200px;
     width: 20%;
-    float: right;
+    float: left;
 }  
 
 .block_green {
     background-color: green;
     height: 200px;
     width: 20%;
-    float: right;
+    float: left;
 }
 
 .block_blue {
     background-color: blue;
     height: 200px;
     width: 20%;
-    float: right;
+    float: left;
 }
 
 .block_yellow {
     background-color: yellow;
     height: 200px;
     width: 20%;
-    float: right;
+    float: left;
 }
 
 .block_black {
     background-color: black;
     height: 200px;
     width: 20%;
+    float: left;
 }
