@@ -13,17 +13,18 @@
 
 .nvigation {
     height: 40px;
+    display: flex;
 }
 
 .nav-list {
-    list-style: none;
     color: white;
-    margin: 11px 0px 10px 0px;
+    line-height: 200%;
+    display: flex;
 }
 
 .nav-item {
-   margin-left: 16px;
-   float: left;
+    margin-left: 16px;
+    display: block;
 }
 
 .content {
