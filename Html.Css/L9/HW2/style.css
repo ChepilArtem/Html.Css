@@ -16,7 +16,7 @@
 
 .nav-list {
     margin-top: 6px;
-    display: flex;
+    float: left;
     list-style: none;
     margin-left: 16px;
     color: white;
@@ -24,6 +24,7 @@
 
 .nav-item {
     margin-left: 16px;
+    float: left;
 }
 
 .content {
