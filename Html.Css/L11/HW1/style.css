@@ -14,5 +14,6 @@
     left: -147px;
     position: relative;
     display: inline-block;
+    cursor: pointer;
 }
 
