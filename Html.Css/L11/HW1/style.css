@@ -1,5 +1,5 @@
 .head {
-    margin: 14px;
+    margin: 16px;
     border-bottom: 1px dotted black;
     display: table;
     cursor: pointer;
@@ -9,8 +9,10 @@
     background-color: grey;
     border-radius: 4px;
     padding: 8px;
-    margin-left: 14px;
+    margin-left: 16px;
     color: white;
+    position: relative;
+    bottom: 2px;
 }
 
 .head:hover + .tooltip {
