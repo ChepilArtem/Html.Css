@@ -1,12 +1,16 @@
 .head {
     margin: 16px;
-    margin-bottom: 15px;
     border-bottom: 1px dotted black;
     display: table;
     cursor: pointer;
 }
 
 .tooltip {
+    background-color: grey;
+    border-radius: 4px;
+    padding: 9px;
+    margin-left: 16px;
+    color: white;
     display: none;
 }
 
