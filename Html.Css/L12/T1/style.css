@@ -16,7 +16,7 @@ p {
 
 .html, .css {
     font-weight: 700;
-    word-spacing: 3px;
+    letter-spacing: 3px;
     font-size: 24px;
     opacity: 0.8;
     text-decoration: underline;
