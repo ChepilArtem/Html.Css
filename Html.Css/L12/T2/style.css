@@ -16,6 +16,6 @@ div {
     background-color: coral;
     line-height: 200px;
     color: white;
-    margin: auto;
+    text-align: center;
     text-transform: uppercase;
 }
