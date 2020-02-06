@@ -28,8 +28,6 @@ a {
     text-decoration: none;
 }
 
-i {
+.translation {
     color: grey;
-    font-style: oblique;
-    font-family: none;
 }
