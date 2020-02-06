@@ -1,11 +1,11 @@
-body {
+html {
     font-size: 18px;
 }
 
-.properties-list {
+.properties-list__item{
     font-size: 24px;
     padding: 8px;
     color: #f39;
     line-height: 32px;
-    text-decoration: none;
+    list-style-type: none;
 }
