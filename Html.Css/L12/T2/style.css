@@ -15,4 +15,7 @@ div {
     height: 200px;
     background-color: coral;
     line-height: 200px;
+    color: white;
+    margin: auto;
+    text-transform: uppercase;
 }
