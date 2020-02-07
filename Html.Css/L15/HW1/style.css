@@ -10,9 +10,9 @@
 
 .image-button {
     text-align: center;
-    line-height: 50px;
+    line-height: 49px;
     position: absolute;
-    top: calc(45%);
+    top: calc(43%);
     width: 200px;
     background-color: bisque;
     font-size: 12px;
