@@ -7,12 +7,12 @@
 .image {
     display: block;
     max-width: 100%;
+    margin: 0 auto;
 }
 
 .image-button {
     display: flex;
     justify-content: center;
-    text-align: center;
     line-height: 49px;
     position: absolute;
     top: calc(43%);
