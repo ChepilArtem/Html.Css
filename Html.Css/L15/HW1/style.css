@@ -9,7 +9,8 @@
 }
 
 .image-button {
-    display: block;
+    display: flex;
+    justify-content: center;
     text-align: center;
     line-height: 49px;
     position: absolute;
