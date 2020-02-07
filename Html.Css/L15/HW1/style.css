@@ -9,11 +9,13 @@
 }
 
 .image-button {
+    display: block;
     text-align: center;
     line-height: 49px;
     position: absolute;
-    top: calc(43%);
+    top: calc(42%);
     width: 200px;
+    height: 51px;
     background-color: bisque;
     font-size: 12px;
     text-transform: uppercase;
