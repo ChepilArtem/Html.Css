@@ -16,14 +16,15 @@ caption {
     margin-bottom: 8px;
 }
 
-th {
-    background-color: aqua;
-}
-
 td, th {
     border: 1px solid black;
     padding: 4px;
     text-align: right;
+    line-height: 40px;
+}
+
+th {
+    background-color: aqua;
 }
 
 tfoot > tr > td {
