@@ -8,7 +8,7 @@ input[type="checkbox"] {
     width: 25px;
     height: 25px;
     background-color: #b3b3b3;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
 }
@@ -16,9 +16,10 @@ input[type="checkbox"] {
 .checkbox {
     display: inline-block;
     padding-left: 35px;
-    position: relative;
+    position: absolute;
     font-size: 24px;
     margin: 16px;
+    cursor: pointer;
 }
 
 .checkbox input:checked + .checkmark {
