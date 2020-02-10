@@ -2,10 +2,10 @@
     box-sizing: border-box;
 }
 
-table, td, th {
+table {
+    border-collapse: collapse;
     width: 500px;
     margin: 16px;  
-    border-collapse: collapse;
 }
 
 td, th {
