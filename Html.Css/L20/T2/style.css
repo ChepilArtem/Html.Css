@@ -44,7 +44,7 @@ body {
   
 }
 
-@keyframes hide {
+/* @keyframes hide {
 
     0% {
         transform: translateX(0);
@@ -54,4 +54,4 @@ body {
         transform: translateX(2000px);
     }
   
-}
+} */
