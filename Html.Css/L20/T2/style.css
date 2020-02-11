@@ -15,7 +15,7 @@ body {
     border: none;
     margin: auto;
     background-image: linear-gradient(45deg, yellow, red);
-    animation: jump .4s .5s ease-in-out, spin .5s ease-in-out, hide .1s .2s ease forwards;
+    animation: jump .5s .4s ease-in-out, spin .5s ease-in-out, hide 1s 2s ease forwards;
 }
 
 @keyframes jump {
@@ -44,7 +44,7 @@ body {
   
 }
 
-/* @keyframes hide {
+@keyframes hide {
 
     0% {
         transform: translateX(0);
@@ -54,4 +54,4 @@ body {
         transform: translateX(2000px);
     }
   
-} */
+}
