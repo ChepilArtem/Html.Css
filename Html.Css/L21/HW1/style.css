@@ -36,23 +36,26 @@ h1 {
 
 .nav-list {
     padding: 0;
-    list-style-type: none;
 }
 
-.nav-list-item {    
+.nav-list-item {  
+    list-style-type: none;
     height: 2em;
-    color: #fff;
     background-color: #808080;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
+    line-height: 2em;
+    color: #fff;
     margin-bottom: 0.5em;
 }
 
 .nav-list-link {
-    color: #fff;
-    text-decoration: none;
+    width: 100%;
+    display: inline-block;
     padding: 0 0.5em;
+    text-decoration: none;
+    color: #fff;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 .section {
