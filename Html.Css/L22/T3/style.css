@@ -1,10 +1,11 @@
-main {
+main{
     display: flex;
-    margin: 0 auto;
 }
-
-picture {
+picture{
     max-width: 100%;
-    max-height: 100vh;
     margin: auto;
+}
+img{
+    max-width: 100%;
+    margin: auto;  
 }
