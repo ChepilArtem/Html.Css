@@ -40,7 +40,7 @@ h1 {
 }
 
 .nav-list-item {
-    padding: 0.4em 0.35em;
+    padding: 0.5em;       
     height: 2em;
     color: #fff;
     background-color: #808080;
@@ -53,7 +53,7 @@ h1 {
 .nav-list-link {
     color: #fff;
     text-decoration: none;
-   
+    padding: 0 0.5em;
 }
 
 .section {
