@@ -44,10 +44,10 @@ h1 {
     height: 2em;
     color: #fff;
     background-color: #808080;
-    margin-bottom: 0.5em;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
+    margin-bottom: 0.5em;
 }
 
 .nav-list-link {
