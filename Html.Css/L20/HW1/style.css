@@ -16,7 +16,7 @@
     border-top-color: black;
     animation: progress 2s infinite linear;
     border-radius: 50%;
-    margin-bottom: 8px;
+    margin-bottom: 9px;
 }
 
 .spinner {
