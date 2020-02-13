@@ -16,6 +16,10 @@ html {
     align-items: center;
 }
 
+.main {
+    padding: 0.5em;
+}
+
 .fas {
     font-size: 2em;
     padding: 0;
