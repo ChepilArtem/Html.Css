@@ -10,7 +10,7 @@ $lgx:1201px;
 }
 
 @mixin for-medium {
-    @media screen and(max-width: $md) {
+    @media screen and(min-width: $md) {
         @content;
     }
 }
