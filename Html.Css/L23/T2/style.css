@@ -31,12 +31,12 @@
     background-color: #8a2be2;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
   .square {
     background-color: #ff7f50;
   }
 }
-@media screen and (min-width: 1200px) {
+@media screen and (max-width: 1200px) {
   .square {
     background-color: #ff7f50;
   }
