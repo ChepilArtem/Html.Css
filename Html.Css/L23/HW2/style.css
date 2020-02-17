@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Verdana;
+}
+
+.container {
+  width: 100vw;
+}
+
+.navigation {
+  background-color: #ff7f50;
+}
+
+.product-list {
+  background-color: #006400;
+}
+
+.news {
+  background-color: #0ff;
+}
+
+.block {
+  display: flex;
+  height: 200px;
+}
+.block-text {
+  padding: 8px;
+  border-radius: 4px;
+  margin: auto;
+  background-color: #faebd7;
+}
+
+@media screen and (min-width: 600px) {
+  .products {
+    display: flex;
+  }
+
+  .block {
+    flex: 1;
+  }
+}
+@media screen and (min-width: 900px) {
+  .container {
+    display: flex;
+  }
+
+  .block {
+    width: 33vw;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
