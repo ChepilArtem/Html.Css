@@ -26,14 +26,9 @@
     background-color: #ff7f50;
   }
 }
-@media screen and (max-width: 900px -1) {
+@media screen and (max-width: 600px) and (max-width: 900px -1) {
   .square {
     background-color: #8a2be2;
-  }
-}
-@media screen and (max-width: 1200px) {
-  .square {
-    background-color: #ff7f50;
   }
 }
 @media screen and (max-width: 1200px) {
