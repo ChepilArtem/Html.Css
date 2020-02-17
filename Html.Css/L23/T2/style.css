@@ -19,21 +19,21 @@
   width: 100px;
   height: 100px;
   margin: 8px;
-  background-color: #c47;
+  background-color: #ff7f50;
 }
 @media screen and (max-width: 600px) {
   .square {
-    background-color: #a61;
+    background-color: #c47;
   }
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 899px) {
   .square {
     background-color: #8a2be2;
   }
 }
 @media screen and (max-width: 1200px) {
   .square {
-    background-color: #ff7f50;
+    background-color: #a61;
   }
 }
 
