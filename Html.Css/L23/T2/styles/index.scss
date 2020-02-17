@@ -19,10 +19,10 @@
     width: 100px;
     height: 100px;
     margin: 8px;
-    background-color: #ff7f50;
+    background-color: #8b2be2;
 
     @include for-small {
-        background-color: #8b2be2;
+        background-color: #ff7f50;
     }
 
     @include for-medium {
