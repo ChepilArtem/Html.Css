@@ -3,7 +3,6 @@
 }
 
 .container {
-  width: 100vw;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -28,10 +27,10 @@
 }
 @media screen and (max-width: 900px) {
   .square {
-    background-color: #8a2be2;
+    background-color: #a82be2;
   }
 }
-@media screen and (max-width: 1200px) {
+@media screen and (min) and (max-width: 1200px) {
   .square {
     background-color: #a61;
   }
