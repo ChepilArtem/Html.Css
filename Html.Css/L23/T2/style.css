@@ -23,7 +23,7 @@
 }
 @media screen and (max-width: 600px) {
   .square {
-    background-color: #ff7f50;
+    background-color: #a61;
   }
 }
 @media screen and (max-width: 900px) {
@@ -33,7 +33,7 @@
 }
 @media screen and (max-width: 1200px) {
   .square {
-    background-color: #a61;
+    background-color: #ff7f50;
   }
 }
 
